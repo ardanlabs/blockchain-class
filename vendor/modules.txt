@@ -1,0 +1,80 @@
+# github.com/ardanlabs/conf/v3 v3.1.2
+## explicit; go 1.13
+github.com/ardanlabs/conf/v3
+# github.com/btcsuite/btcd/btcec/v2 v2.2.0
+## explicit; go 1.17
+github.com/btcsuite/btcd/btcec/v2
+github.com/btcsuite/btcd/btcec/v2/ecdsa
+# github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1
+## explicit; go 1.16
+github.com/decred/dcrd/dcrec/secp256k1/v4
+github.com/decred/dcrd/dcrec/secp256k1/v4/ecdsa
+# github.com/dimfeld/httptreemux/v5 v5.4.0
+## explicit; go 1.9
+github.com/dimfeld/httptreemux/v5
+# github.com/ethereum/go-ethereum v1.10.25
+## explicit; go 1.17
+github.com/ethereum/go-ethereum/common
+github.com/ethereum/go-ethereum/common/hexutil
+github.com/ethereum/go-ethereum/common/math
+github.com/ethereum/go-ethereum/crypto
+github.com/ethereum/go-ethereum/crypto/secp256k1
+github.com/ethereum/go-ethereum/crypto/secp256k1/libsecp256k1/include
+github.com/ethereum/go-ethereum/crypto/secp256k1/libsecp256k1/src
+github.com/ethereum/go-ethereum/crypto/secp256k1/libsecp256k1/src/modules/recovery
+github.com/ethereum/go-ethereum/rlp
+github.com/ethereum/go-ethereum/rlp/internal/rlpstruct
+# github.com/go-playground/locales v0.14.0
+## explicit; go 1.13
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+github.com/go-playground/locales/en
+# github.com/go-playground/universal-translator v0.18.0
+## explicit; go 1.13
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.11.1
+## explicit; go 1.13
+github.com/go-playground/validator/v10
+github.com/go-playground/validator/v10/translations/en
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+github.com/inconshreveable/mousetrap
+# github.com/leodido/go-urn v1.2.1
+## explicit; go 1.13
+github.com/leodido/go-urn
+# github.com/spf13/cobra v1.5.0
+## explicit; go 1.15
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
+# go.uber.org/atomic v1.7.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.6.0
+## explicit; go 1.12
+go.uber.org/multierr
+# go.uber.org/zap v1.23.0
+## explicit; go 1.18
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
+## explicit; go 1.17
+golang.org/x/crypto/sha3
+# golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a
+## explicit; go 1.17
+golang.org/x/sys/cpu
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
